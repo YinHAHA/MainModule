@@ -1,0 +1,4 @@
+[submodule "SubModule"]
+	path = SubModule
+	url = https://github.com/YinHAHA/SubModule.git
+	branch = dev
